@@ -13,7 +13,6 @@ body {
   display: block;
   max-width: 100%;
   height: auto;
-  margin: 30px auto;
 }
 figcaption {
     font-size: smaller;
@@ -102,9 +101,6 @@ h1 {
   }
   h1 {
     font-size: 40px;
-  }
-  .img {
-    margin: 50px auto;
   }
 }
 @media screen and (min-width: 485px) and (max-width: 1179px) {
