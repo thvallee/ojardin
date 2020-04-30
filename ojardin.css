@@ -23,8 +23,7 @@ figure .img {
 }
 
 .header {
-  height: 200px;
-  margin-bottom: 30px;
+  height: 150px;
   max-width: 100%;
   background: url(img/header.png) center center no-repeat;
   background-size: contain;
@@ -96,7 +95,6 @@ h1 {
     font-size: 18px;
   }
   .header {
-    margin-bottom: 70px;
     height: 300px;
   }
   h1 {
